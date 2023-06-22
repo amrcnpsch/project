@@ -10,7 +10,6 @@ def delenie(a,b):
         print("B is a null!")
 def umnozhenie(a,b):
     return a*b
-def dlinaokruzhnosti(r):
-    def pi*r
-text = "text"
-print(dlinaokruzhnosti(int(int(input()))))
+def dlina(r):
+    return pi*r
+print(dlina((int(input()))))
