@@ -1,3 +1,4 @@
+from math import pi
 def plus(a,b):
     return a+b
 def minus(a,b):
@@ -9,5 +10,7 @@ def delenie(a,b):
         print("B is a null!")
 def umnozhenie(a,b):
     return a*b
+def dlinaokruzhnosti(r):
+    def pi*r
 text = "text"
-print(umnozhenie(int(input()),int(input())))
+print(dlinaokruzhnosti(int(int(input()))))
