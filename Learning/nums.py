@@ -7,5 +7,7 @@ def delenie(a,b):
         return a/b
     else:
         print("B is a null!")
+def umnozhenie(a,b):
+    return a*b
 text = "text"
-print(minus(int(input()),int(input())))
+print(umnozhenie(int(input()),int(input())))
