@@ -1,5 +1,5 @@
 from math import pi
-def plus(a: int,b: int):
+def plus(a: int,b: int) -> int:
     return a+b
 def minus(a,b):
     return a-b
@@ -12,4 +12,4 @@ def umnozhenie(a,b):
     return a*b
 def dlina(r):
     return pi*r
-print(plus(2,3))
+print(plus(4,5))
